@@ -11,6 +11,7 @@ Files here get referenced from consuming project configs — see `README.md` for
 - One `.md` per domain, named `SCREAMING_CASE` (e.g., `GENERAL.md`, `DESIGN.md`)
 - `GENERAL.md` = company context, included in every Velumi project
 - Future files follow same pattern
+- Context documents lives in `context/`
 
 ## Conventions
 

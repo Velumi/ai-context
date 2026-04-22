@@ -20,7 +20,7 @@ Add raw GitHub URLs to `opencode.jsonc` in the consuming repo root:
 {
   "$schema": "https://opencode.ai/config.json",
   "instructions": [
-    "https://raw.githubusercontent.com/velumi/ai-context/main/GENERAL.md"
+    "https://raw.githubusercontent.com/velumi/ai-context/main/context/GENERAL.md"
   ]
 }
 ```
@@ -31,8 +31,8 @@ Multiple files and glob patterns work:
 {
   "$schema": "https://opencode.ai/config.json",
   "instructions": [
-    "https://raw.githubusercontent.com/velumi/ai-context/main/GENERAL.md",
-    "https://raw.githubusercontent.com/velumi/ai-context/main/DESIGN.md"
+    "https://raw.githubusercontent.com/velumi/ai-context/main/context/GENERAL.md",
+    "https://raw.githubusercontent.com/velumi/ai-context/main/context/DESIGN.md"
   ]
 }
 ```
