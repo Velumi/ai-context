@@ -7,6 +7,7 @@ Shared AI agent instruction files for Velumi projects. Each `.md` file covers on
 | File | Domain | Include in |
 |------|--------|------------|
 | `GENERAL.md` | Company context, positioning, pricing, ICPs, billing | Every Velumi project |
+| `BILLING.md` | Billing architecture, ownership, cross-project rules | Projects touching billing: billing-service, dashboard, login, billing, website |
 | `DESIGN.md` | Frontend/UI conventions | Frontend projects *(planned)* |
 
 More files follow the same pattern: one `.md` per concern, named in `SCREAMING_CASE`.

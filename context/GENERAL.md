@@ -48,28 +48,15 @@ Built by **Templ** (Wootemple AB), a Swedish managed WordPress host for web agen
 
 ---
 
-## Pricing Model
+## Pricing & Billing
 
-**One plan = one project.** No seat fees. Unlimited team members.
-**Bandwidth** is the only usage-based metric.
+**One plan = one project.** No seat fees. Unlimited team members. **Bandwidth** is the only usage metric.
 
-Five tiers: Dev (free, 10 GB BW) → Launch (€9) → Grow (€49) → Scale (€199) → Enterprise (custom).
-All prices ex. VAT. Annual = 2 months free.
+Five tiers: Dev (free, 10 GB BW) → Launch (€9) → Grow (€49) → Scale (€199) → Enterprise (custom). Annual = 2 months free.
 
-Dev tier: no custom domains, no commercial use, noindex, max 10 free projects.
+Billing architecture and cross-project ownership rules → see `BILLING.md`.
 
-> Ref: `velumi/playbook` → `04-plans-pricing.md`
-
----
-
-## Billing Model
-
-Hybrid: base plan upfront, bandwidth overage charged end of billing period.
-One Stripe subscription per account. Each paid site = 2 subscription items (base + metered overage).
-
-Key mechanics: anniversary billing, no bandwidth rollover, prorated upgrades/downgrades.
-
-> Ref: `velumi/playbook` → `04c-how-billing-works.md`
+> Ref: `velumi/playbook` → `04-plans-pricing.md`, `04c-how-billing-works.md`
 
 ---
 
