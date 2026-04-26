@@ -35,3 +35,37 @@ Load this for copywriting, positioning, and marketing tasks. Not needed for pure
 - **Phase 1:** Convert Templ customers, build waitlist
 - **Phase 2:** SEO, PLG activation, community, partnerships (Lovable/Bolt priority)
 - **Templ relationship is strategic** — existing agency customers are #1 early adopter channel
+
+---
+
+## Brand Voice & Tone
+
+### Core Principles
+
+| Principle | In Practice |
+|---|---|
+| **Calm** | No hype, no urgency tricks, no "🚀 AMAZING". Confident and measured. |
+| **Approachable** | Write for builders, not infrastructure experts. No assumed PhD. |
+| **Trustworthy** | EU-native, GDPR-ready, proven track record. State facts, not feelings. |
+| **Direct** | Subject → verb → object. Cut unnecessary adjectives. |
+| **Specific** | "€9/month" not "affordable". "100 GB" not "generous". |
+| **Honest** | Don't oversell. Don't claim "unlimited" if it isn't. |
+| **EU first** | Lead with the EU angle in headlines where it fits naturally. |
+| **No jargon in intros** | Avoid vCPU, invocations, edge functions, ISR, serverless in opening copy. |
+
+### Voice by Content Type
+
+| Type | Voice | Tone |
+|---|---|---|
+| **Founder articles** | 1st person | Personal, honest, direct. Like a founder talking to peers. Not a press release. |
+| **SEO/comparison** | 3rd person | Editorial, factual, thorough, balanced. Shows the homework. |
+| **Tutorials (vibecoder)** | 2nd person | Warm, encouraging, zero jargon. Like a knowledgeable friend. |
+| **Agency articles** | 3rd person | Confident, practical, well-sourced. |
+| **Marketing copy** | 2nd person | Clear, benefit-led, no tricks. |
+
+### Critical Rules
+
+- **Never name Vercel in public-facing content.** Say "other platforms", "the current default", or describe the problem without naming them.
+- **Never position Velumi as "cheaper Vercel."** Cheap is not the story — **predictable** is.
+- **Never use fear-based GDPR messaging.** Be practical, not fear-mongering.
+- **Cite sources.** When referencing data, include a `## Sources` section with numbered references.
